@@ -1,0 +1,8 @@
+name = input("Enter your name:")
+age = input("Enter your age:")
+print("***************")
+print("Welcome to Python journey")
+print("***************")
+print("hello",name,"!")
+print("You are",age, "years old.")
+print("Have a nice day!")

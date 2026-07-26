@@ -1,0 +1,8 @@
+num1 = int(input("enter a number: "))
+num2 = int(input("eneter a number: "))
+print("simple calculator")
+print("addition value",num1+num2)
+print("subtraction value",num1-num2)
+print("multiplication value",num1*num2)
+print("division value",num1/num2)
+print("modulus value",num1%num2)
