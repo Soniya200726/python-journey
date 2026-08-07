@@ -1,0 +1,6 @@
+note = input("enter your notes: ")
+file = open("notes.txt" , "w")
+file.write(note)
+print("saved successfully!")
+file = open("notes.txt" , "r")
+print("your notes: \n", file.read())
